@@ -6,7 +6,7 @@
 [![Issues](https://img.shields.io/github/issues/Akastha68/Ip-detail-finder)](https://github.com/Akastha68/Ip-detail-finder/issues)
 <header>
   <h2>Welcome to Ip-detail-finder</h2>
-  <p>This Tool will you to find anyone Ip detail for free</p>
+  <p>This Tool will help you to find anyone Ip detail for free</p>
   <p>
     You can also know by this tool that he/she is using or not using VPN Proxy or Tor
   </p>
