@@ -1,4 +1,10 @@
 # Ip-detail-finder
+[![GIT Stars](https://img.shields.io/github/stars/Akastha68/Ip-detail-finder)](https://github.com/Akastha68/Ip-detail-finder/)
+[![Download](https://img.shields.io/npm/dt/Ip-detail-finder.svg)](https://github.com/Akastha68/Ip-detail-finder)
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/Akastha68)](https://github.com/Akastha68/Ip-detail-finder)
+[![LICENSE](https://img.shields.io/npm/l/truecallerjs.svg)](https://github.com/Akastha68/Ip-detail-finder/blob/main/LICENSE)
+[![Maintenance](https://img.shields.io/npms-io/maintenance-score/tr)](https://github.com/Akastha68/Ip-detail-finder)
+[![Issues](https://img.shields.io/github/issues/Akastha68/Ip-detail-finder)](https://github.com/Akastha68/Ip-detail-finder/issues)
 <header>
   <p>This Tool will you to find anyone Ip detail for free</p>
   <p>
