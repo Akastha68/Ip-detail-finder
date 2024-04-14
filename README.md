@@ -7,9 +7,13 @@
   <p>
     This tool provide you a lot of information from ip of victim.
   </p>
+  <div>
+    <h4>Screenshot </h4>
+    <img  src="https://raw.githubusercontent.com/Akastha68/Ip-detail-finder/main/Screenshot_2024-04-14-06-07-45-81_84d3000e3f4017145260f7618db1d683.jpg" height="50%" width="50%"><img src="https://raw.githubusercontent.com/Akastha68/Ip-detail-finder/main/Screenshot_2024-04-14-06-08-09-54_84d3000e3f4017145260f7618db1d683.jpg" height="50%" width="50%">
+  </div>
 </header>
 
-check installation process here: <a href="https://www.superficialak.line.pm/tool/ip">here</a>
+<h4>check installation process: <a href="https://www.superficialak.line.pm/tool/ip">here</a></h4>
 <h6>Report this tool at <a href="https://superficialak60@yahoo.com">here</a></h6>
 <article>
   <h3>Installation Guide</h3>
