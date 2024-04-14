@@ -22,7 +22,7 @@
 </header>
 
 <h4>check installation process: <a href="https://www.superficialak.line.pm/tool/ip">here</a></h4>
-<h6>Report this tool at <a href="https://superficialak60@yahoo.com">here</a></h6>
+<h6>Report this tool at :- <email>superficialak60@yahoo.com</email></h6>
 <article>
   <h3>Installation Guide</h3>
   <h5>
