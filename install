@@ -1,4 +1,4 @@
-bash banner/banner.sh
+bash banner.sh
 pkg updat||apt-get update 
 pkg upgrade||apt-get upgrade
 pkg install mpv||apt install mpv
