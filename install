@@ -1,0 +1,13 @@
+bash banner/banner.sh
+pkg updat||apt-get update 
+pkg upgrade||apt-get upgrade
+pkg install mpv||apt install mpv
+pkg install git||apt install git
+pkg install figlet
+pip install colorama
+pip install rich
+pip install requests
+
+mv start /data/data/com.termux/files/usr/bin|| mv start /usr/bin
+chmod +x /data/data/com.termux/files/usr/bin/start || chmod +x /usr/bin/start
+echo -e '\e[1;32mNow type start to start the tool'
