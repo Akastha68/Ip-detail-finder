@@ -56,5 +56,6 @@
     <strong>For Educational purposes</strong> only<br> use this tool at your own risk we are not responsible if any damage caused by it.
   </h3>
   <h4>Acknowledge</h4>
+  <p>The credit of banner:- @Code3r-Ak</p>
   <abbr>Thank you for using this tools<br>I hope this tools help you efficiently in information gathering.</abbr>
 </footer>
