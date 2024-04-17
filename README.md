@@ -34,8 +34,9 @@
     </li>
     <li>cd Ip-detail-finder</li>
     <li>unzip IpTracker.zip</li>
-    <li>bash install.sh</li>
-    <li>bash start.sh</li>
+    <li>chmod +x install</li>
+    <li>bash install</li>
+    <li>Type <strong>start</strong>to start the tool</li>
   </ul>
   <h5>Installation on Kali Linux </h5>
   <ul>
@@ -44,8 +45,9 @@
     </li>
     <li>cd Ip-detail-finder</li>
     <li>unzip IpTracker.zip</li>
-    <li>bash install.sh</li>
-    <li>bash start.sh</li>
+    <li>chmod +x install</li>
+    <li>bash install</li>
+    <li>Type <strong>start</strong>Any where to start the tool</li>
   </ul>
 </article>
 <h3>Tested on Kali Linux and Termux</h3>
