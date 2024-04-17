@@ -7,6 +7,7 @@ pkg install figlet
 pip install colorama
 pip install rich
 pip install requests
+unzip IpTracker.zip
 
 mv start /data/data/com.termux/files/usr/bin|| mv start /usr/bin
 chmod +x /data/data/com.termux/files/usr/bin/start || chmod +x /usr/bin/start
