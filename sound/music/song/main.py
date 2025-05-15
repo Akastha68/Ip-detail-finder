@@ -34,7 +34,7 @@ def menu():
   except KeyboardInterrupt:
      print(F.CYAN,"_"*30)
      print(F.RED,"Thankyou for using") 
-     print(F.BLUE,"//Author:- Superficial AK")
+     print(F.BLUE,"//Author:- Akash Patel")
      print(F.CYAN,"_"*30)
      time.sleep(1)
      m.Denied()
@@ -43,7 +43,7 @@ def menu():
 Astha.CheckConnection()
 
 try:
-   if requests.get('https://www.superficialak.line.pm').status_code == 200:
+   if requests.get('https://google.com').status_code == 200:
          menu()
    else:
         quit()

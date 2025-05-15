@@ -6,7 +6,7 @@ from colorama import Fore as F
 
 def CheckConnection():
      try:
-        requests.get('https://www.superficialak.line.pm')
+        requests.get('https://google.com/')
      except:
          print(F.GREEN,"-"*30)
          print(F.RED,"| Please connect with internet|")

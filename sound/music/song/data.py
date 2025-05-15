@@ -11,7 +11,7 @@ def ast():
   data = requests.get(url1).json()
 
 
-  print(f.GREEN,"\n[$] [IP]:", data['query'])
+  print(f.GREEN,"[$] [IP]:", data['query'])
 
 
   print(" [$] [ISP] :", data['isp'])
@@ -86,9 +86,9 @@ def ast():
   if data['district'] == False:
     print(f'[$] [District{no}!]')
 
-  print('  [$] [Proxy, VPN or Tor]:', data['proxy'])
+  print(' [$] [Proxy, VPN or Tor]:', data['proxy'])
   if data['proxy'] == False:
-    print(f'[$] [Proxy, VPN or Tor {no}]')
+    print(f' [$] [Proxy, VPN or Tor {no}]')
 
 
 
@@ -178,7 +178,7 @@ def krish():
 
     print(' [$] [Proxy, VPN or Tor]:', data['proxy'])
     if data['proxy'] == False:
-      print(f'[$] [Proxy, VPN or Tor {no}!]')
+      print(f' [$] [Proxy, VPN or Tor {no}!]')
 
   except KeyError:
     print(f.RED,f'\n[~] Error 408 data not found try again {ipvic}')
