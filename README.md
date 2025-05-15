@@ -25,8 +25,8 @@ This tool is designed for ethical hacking and educational purposes only.
 
 <img src="https://raw.githubusercontent.com/Akastha68/Ip-detail-finder/main/1.jpg" height="50%" width="50%">
 <img src="https://raw.githubusercontent.com/Akastha68/Ip-detail-finder/main/2.jpg" height="50%" width="50%">
-<img src="https://github.com/Akastha68/Ip-detail-finder/blob/main/3.jpg" height="50%" width="50%">
-<img src="https://github.com/Akastha68/Ip-detail-finder/blob/main/4.jpg" height="50%" width="50%">
+<img src="https://github.com/Akastha68/Ip-detail-finder/blob/main/3.jpg">
+<img src="https://github.com/Akastha68/Ip-detail-finder/blob/main/4.jpg">
 
 ---
 
