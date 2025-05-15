@@ -23,10 +23,10 @@ This tool is designed for ethical hacking and educational purposes only.
 
 ## Screenshots
 
-<img src="https://raw.githubusercontent.com/Akastha68/Ip-detail-finder/main/Screenshot_2024-04-14-06-07-45-81_84d3000e3f4017145260f7618db1d683.jpg" height="50%" width="50%">
-<img src="https://raw.githubusercontent.com/Akastha68/Ip-detail-finder/main/Screenshot_2024-04-14-06-08-09-54_84d3000e3f4017145260f7618db1d683.jpg" height="50%" width="50%">
-<img src="https://github.com/Akastha68/Ip-detail-finder/blob/542e6c0b9274e53d43c0e800b0357cacf8df54a0/Screenshot_2024-04-14-07-42-18-28_30a42d6a209f6598350fa5f61642e1a9.jpg" height="50%" width="50%">
-<img src="https://github.com/Akastha68/Ip-detail-finder/blob/542e6c0b9274e53d43c0e800b0357cacf8df54a0/Screenshot_2024-04-14-07-42-58-33_30a42d6a209f6598350fa5f61642e1a9.jpg" height="50%" width="50%">
+<img src="https://raw.githubusercontent.com/Akastha68/Ip-detail-finder/main/1.jpg" height="50%" width="50%">
+<img src="https://raw.githubusercontent.com/Akastha68/Ip-detail-finder/main/2.jpg" height="50%" width="50%">
+<img src="https://github.com/Akastha68/Ip-detail-finder/blob/542e6c0b9274e53d43c0e800b0357cacf8df54a0/3.jpg" height="50%" width="50%">
+<img src="https://github.com/Akastha68/Ip-detail-finder/blob/542e6c0b9274e53d43c0e800b0357cacf8df54a0/4.jpg" height="50%" width="50%">
 
 ---
 
