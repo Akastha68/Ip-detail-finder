@@ -13,6 +13,7 @@
   <p>
     This tool provide you a lot of information from ip of victim.
   </p>
+---
 ## Screenshot
     <img  src="https://raw.githubusercontent.com/Akastha68/Ip-detail-finder/main/Screenshot_2024-04-14-06-07-45-81_84d3000e3f4017145260f7618db1d683.jpg" height="50%" width="50%"><img src="https://raw.githubusercontent.com/Akastha68/Ip-detail-finder/main/Screenshot_2024-04-14-06-08-09-54_84d3000e3f4017145260f7618db1d683.jpg" height="50%" width="50%">
     <img src="https://github.com/Akastha68/Ip-detail-finder/blob/542e6c0b9274e53d43c0e800b0357cacf8df54a0/Screenshot_2024-04-14-07-42-18-28_30a42d6a209f6598350fa5f61642e1a9.jpg">
@@ -20,6 +21,7 @@
 
 <h4>check installation process: <a href="https://www.superficialak.line.pm/tool/ip">here</a></h4>
 <h6>Report this tool at :- <email>superficialak60@yahoo.com</email></h6>
+---
 ## Installation Guide
 ###  Installation on Termux
  ```bash git clone https://github.com/Akastha68/Ip-detail-finder.git
@@ -36,9 +38,10 @@
  ./install
 ```
 - Type <strong>start</strong> Any where to start the tool
-
+---
 ### Tested on Kali Linux and Termux
 ## <strong>For Educational purposes</strong> only<br> use this tool at your own risk we are not responsible if any damage caused by it.
+---
 ## Acknowledge
 - The credit of loading banner:- @Code3r-Ak
 - Thank you for using this tools<br>I hope this tools help you efficiently in information gathering.
