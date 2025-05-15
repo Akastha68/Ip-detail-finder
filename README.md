@@ -13,49 +13,32 @@
   <p>
     This tool provide you a lot of information from ip of victim.
   </p>
-  <div>
-    <h4>Screenshot </h4>
+## Screenshot
     <img  src="https://raw.githubusercontent.com/Akastha68/Ip-detail-finder/main/Screenshot_2024-04-14-06-07-45-81_84d3000e3f4017145260f7618db1d683.jpg" height="50%" width="50%"><img src="https://raw.githubusercontent.com/Akastha68/Ip-detail-finder/main/Screenshot_2024-04-14-06-08-09-54_84d3000e3f4017145260f7618db1d683.jpg" height="50%" width="50%">
     <img src="https://github.com/Akastha68/Ip-detail-finder/blob/542e6c0b9274e53d43c0e800b0357cacf8df54a0/Screenshot_2024-04-14-07-42-18-28_30a42d6a209f6598350fa5f61642e1a9.jpg">
     <img src="https://github.com/Akastha68/Ip-detail-finder/blob/542e6c0b9274e53d43c0e800b0357cacf8df54a0/Screenshot_2024-04-14-07-42-58-33_30a42d6a209f6598350fa5f61642e1a9.jpg">
-  </div>
-</header>
 
 <h4>check installation process: <a href="https://www.superficialak.line.pm/tool/ip">here</a></h4>
 <h6>Report this tool at :- <email>superficialak60@yahoo.com</email></h6>
-<article>
-  <h3>Installation Guide</h3>
-  <h5>
-    Installation on Termux
-  </h5>
-  <ul>
-    <li>
-      git clone https://github.com/Akastha68/Ip-detail-finder.git
-    </li>
-    <li>cd Ip-detail-finder</li>
-    <li>unzip IpTracker.zip</li>
-    <li>chmod +x install</li>
-    <li>./install</li>
-    <li>Type <strong>start</strong> to start the tool</li>
-  </ul>
-  <h5>Installation on Kali Linux </h5>
-  <ul>
-    <li>
-      git clone https://github.com/Akastha68/Ip-detail-finder.git
-    </li>
-    <li>cd Ip-detail-finder</li>
-    <li>unzip IpTracker.zip</li>
-    <li>chmod +x install</li>
-    <li>./install</li>
-    <li>Type <strong>start</strong> Any where to start the tool</li>
-  </ul>
-</article>
-<h3>Tested on Kali Linux and Termux</h3>
-<footer>
-  <h3>
-    <strong>For Educational purposes</strong> only<br> use this tool at your own risk we are not responsible if any damage caused by it.
-  </h3>
-  <h4>Acknowledge</h4>
-  <p>The credit of loading banner:- @Code3r-Ak</p>
-  <abbr>Thank you for using this tools<br>I hope this tools help you efficiently in information gathering.</abbr>
-</footer>
+## Installation Guide
+###  Installation on Termux
+ ```bash git clone https://github.com/Akastha68/Ip-detail-finder.git
+    cd Ip-detail-finder
+    chmod +x install
+    ./install
+```
+- Type <strong>start</strong> to start the tool
+---
+### Installation on Kali Linux
+```bash git clone https://github.com/Akastha68/Ip-detail-finder.git
+ cd Ip-detail-finder
+ chmod +x install
+ ./install
+```
+- Type <strong>start</strong> Any where to start the tool
+
+### Tested on Kali Linux and Termux
+## <strong>For Educational purposes</strong> only<br> use this tool at your own risk we are not responsible if any damage caused by it.
+## Acknowledge
+- The credit of loading banner:- @Code3r-Ak
+- Thank you for using this tools<br>I hope this tools help you efficiently in information gathering.
