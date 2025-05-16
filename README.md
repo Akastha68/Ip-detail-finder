@@ -36,9 +36,12 @@ This tool is designed for ethical hacking and educational purposes only.
 
 ```bash
 git clone https://github.com/Akastha68/Ip-detail-finder.git
-cd Ip-detail-finder
-chmod +x install
-./install
+```
+```bash cd Ip-detail-finder
+```
+```bash chmod +x install
+```
+```bash ./install
 ```
 
 - Run the tool using: `start`
@@ -47,9 +50,12 @@ chmod +x install
 
 ```bash
 git clone https://github.com/Akastha68/Ip-detail-finder.git
-cd Ip-detail-finder
-chmod +x install
-./install
+```
+```bash cd Ip-detail-finder
+```
+```bash chmod +x install
+```
+```bash ./install
 ```
 
 - Run the tool from anywhere using: `start`
@@ -75,3 +81,4 @@ chmod +x install
 
 - **Loading Banner Credit:** [@Code3r-Ak](https://github.com/Code3r-Ak)
 - Thank you for using **IP Detail Finder**. We hope it assists you efficiently in your ethical hacking journey.
+- Brought By:- [Akash Patel](https://github.com/Akastha68)
