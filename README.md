@@ -37,11 +37,14 @@ This tool is designed for ethical hacking and educational purposes only.
 ```bash
 git clone https://github.com/Akastha68/Ip-detail-finder.git
 ```
-```bash cd Ip-detail-finder
+```bash 
+cd Ip-detail-finder
 ```
-```bash chmod +x install
+```bash 
+chmod +x install
 ```
-```bash ./install
+```bash 
+./install
 ```
 
 - Run the tool using: `start`
@@ -51,11 +54,14 @@ git clone https://github.com/Akastha68/Ip-detail-finder.git
 ```bash
 git clone https://github.com/Akastha68/Ip-detail-finder.git
 ```
-```bash cd Ip-detail-finder
+```bash
+cd Ip-detail-finder
 ```
-```bash chmod +x install
+```bash 
+chmod +x install
 ```
-```bash ./install
+```bash 
+./install
 ```
 
 - Run the tool from anywhere using: `start`
